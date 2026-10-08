@@ -1,6 +1,6 @@
 {
   "dealership": "Kalawsky Chevrolet Buick Gmc",
-  "generated_at": "2026-09-27T00:10:07",
+  "generated_at": "2026-10-08T14:39:50",
   "vehicle_count": 117,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "5TDBKRFH5ES031947",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LEin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/1f8b3e6bd1b9.html",
       "source_url": "https://www.kalawsky.com/used/2014-Toyota-Highlander-id14211363.html",
       "dealer_url": "https://www.kalawsky.com/used/2014-Toyota-Highlander-id14211363.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 203667,
       "year": 2014,
       "make": "Toyota",
-      "model": "Highlander LEin Castlegar",
-      "condition": "used"
+      "model": "Highlander",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2014 Toyota Highlander ",
@@ -36,7 +39,9 @@
       "year": 2014,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2014 Toyota Highlander ",
@@ -52,12 +57,15 @@
       "year": 2014,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Durango GTin Castlegar",
       "vin": "1C4RDJDG9KC779957",
       "stock": "NUMBER",
+      "trim": "GTin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/0b0cfab50cf8.html",
       "source_url": "https://www.kalawsky.com/used/2019-Dodge-Durango-id14386909.html",
       "dealer_url": "https://www.kalawsky.com/used/2019-Dodge-Durango-id14386909.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -67,8 +75,10 @@
       "odometer_km": 64580,
       "year": 2019,
       "make": "Dodge",
-      "model": "Durango GTin Castlegar",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Durango ",
@@ -83,7 +93,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Durango ",
@@ -98,12 +110,15 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Tacoma SR5in Castlegar",
       "vin": "5TFDZ5BN9KX043193",
       "stock": "NUMBER",
+      "trim": "SR5in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/5b0ff8112ebe.html",
       "source_url": "https://www.kalawsky.com/used/2019-Toyota-Tacoma-id14386916.html",
       "dealer_url": "https://www.kalawsky.com/used/2019-Toyota-Tacoma-id14386916.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -113,8 +128,10 @@
       "odometer_km": 107729,
       "year": 2019,
       "make": "Toyota",
-      "model": "Tacoma SR5in Castlegar",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Tacoma ",
@@ -129,7 +146,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Tacoma ",
@@ -144,12 +163,15 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Golf SportWagen Comfortline DSG 4MOTIONin Castlegar",
       "vin": "3VW117AU5KM518887",
       "stock": "NUMBER",
+      "trim": "Comfortline DSG 4MOTIONin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/e74ecba52b8a.html",
       "source_url": "https://www.kalawsky.com/used/2019-Volkswagen-Golf_SportWagen-id14428577.html",
       "dealer_url": "https://www.kalawsky.com/used/2019-Volkswagen-Golf_SportWagen-id14428577.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -159,8 +181,10 @@
       "odometer_km": 113195,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Golf SportWagen Comfortline DSG 4MOTIONin Castlegar",
-      "condition": "used"
+      "model": "Golf",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Golf SportWagen ",
@@ -175,7 +199,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Golf SportWagen",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Golf SportWagen ",
@@ -190,13 +216,16 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Golf SportWagen",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Silverado Trail Boss Customin Castlegar",
       "vin": "1GCPYCEF3MZ411755",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Trail Boss Customin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/bbb13eae7f89.html",
       "source_url": "https://www.kalawsky.com/used/2021-Chevrolet-Silverado-id14207753.html",
       "dealer_url": "https://www.kalawsky.com/used/2021-Chevrolet-Silverado-id14207753.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,8 +235,10 @@
       "odometer_km": 127572,
       "year": 2021,
       "make": "Chevrolet",
-      "model": "Silverado Trail Boss Customin Castlegar",
-      "condition": "used"
+      "model": "Silverado",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Silverado ",
@@ -223,7 +254,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Silverado ",
@@ -239,13 +272,16 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 2500 Denali Reservein Castlegar",
       "vin": "1GT49REY4NF322879",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Denali Reservein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/e819f9c2806d.html",
       "source_url": "https://www.kalawsky.com/used/2022-GMC-Sierra-id14386908.html",
       "dealer_url": "https://www.kalawsky.com/used/2022-GMC-Sierra-id14386908.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -255,8 +291,10 @@
       "odometer_km": 79565,
       "year": 2022,
       "make": "GMC",
-      "model": "Sierra 2500 Denali Reservein Castlegar",
-      "condition": "used"
+      "model": "Sierra 2500",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra ",
@@ -272,7 +310,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra ",
@@ -288,12 +328,15 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra N Manualin Castlegar",
       "vin": "KMHLW4AK7NU004951",
       "stock": "NUMBER",
+      "trim": "N Manualin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/c067226652cd.html",
       "source_url": "https://www.kalawsky.com/used/2022-Hyundai-Elantra_N-id14409564.html",
       "dealer_url": "https://www.kalawsky.com/used/2022-Hyundai-Elantra_N-id14409564.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -303,13 +346,16 @@
       "odometer_km": 52270,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Elantra N Manualin Castlegar",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra N ",
       "vin": "KMHLW4AK7NU004951",
       "stock": 14409564,
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/aa7ff43ec496.html",
       "source_url": "https://www.kalawsky.com/used/2022-Hyundai-Elantra_N.html",
       "dealer_url": "https://www.kalawsky.com/used/2022-Hyundai-Elantra_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -318,13 +364,16 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra N ",
       "vin": "KMHLW4AK7NU004951",
       "stock": 14409564,
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/aa7ff43ec496.html",
       "source_url": "https://www.kalawsky.com/used/2022-Hyundai-Elantra_N.html",
       "dealer_url": "https://www.kalawsky.com/used/2022-Hyundai-Elantra_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -333,14 +382,17 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota 4Runner TRDin Castlegar",
       "vin": "JTERU5JR3N6033726",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "TRDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/46d1c473c41b.html",
       "source_url": "https://www.kalawsky.com/used/2022-Toyota-4Runner-id14386911.html",
       "dealer_url": "https://www.kalawsky.com/used/2022-Toyota-4Runner-id14386911.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -350,8 +402,10 @@
       "odometer_km": 47025,
       "year": 2022,
       "make": "Toyota",
-      "model": "4Runner TRDin Castlegar",
-      "condition": "used"
+      "model": "4Runner",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota 4Runner ",
@@ -367,7 +421,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota 4Runner ",
@@ -383,7 +439,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Silverado 2500 HD 4WD Double Cab Long Box Alaskan Editionin Castlegar",
@@ -399,13 +457,16 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Silverado 2500 HD 4WD Double Cab Long Box Alaskan Editionin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Silverado 2500 HD ",
       "vin": "1GC2YLEY8PF120220",
       "stock": 14434730,
       "color": "(01U),",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/11cd44941d10.html",
       "source_url": "https://www.kalawsky.com/used/2023-Chevrolet-Silverado_2500_HD.html",
       "dealer_url": "https://www.kalawsky.com/used/2023-Chevrolet-Silverado_2500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -414,14 +475,17 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Chevrolet",
-      "model": "Silverado 2500 HD",
-      "condition": "used"
+      "model": "Silverado 2500",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Silverado 2500 HD ",
       "vin": "1GC2YLEY8PF120220",
       "stock": 14434730,
       "color": "(01U),",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/11cd44941d10.html",
       "source_url": "https://www.kalawsky.com/used/2023-Chevrolet-Silverado_2500_HD.html",
       "dealer_url": "https://www.kalawsky.com/used/2023-Chevrolet-Silverado_2500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -430,14 +494,17 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Chevrolet",
-      "model": "Silverado 2500 HD",
-      "condition": "new"
+      "model": "Silverado 2500",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Pacifica Touring Lin Castlegar",
       "vin": "2C4RC1BG6PR574598",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Touring Lin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/fb45b8003f77.html",
       "source_url": "https://www.kalawsky.com/used/2023-Chrysler-Pacifica-id14211361.html",
       "dealer_url": "https://www.kalawsky.com/used/2023-Chrysler-Pacifica-id14211361.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -447,8 +514,10 @@
       "odometer_km": 86190,
       "year": 2023,
       "make": "Chrysler",
-      "model": "Pacifica Touring Lin Castlegar",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Pacifica ",
@@ -464,7 +533,9 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Pacifica ",
@@ -480,7 +551,9 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Sierra 1500 Crew Cab Standard Box 4-Wheel Drive Denaliin Castlegar",
@@ -496,7 +569,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab Standard Box 4-Wheel Drive Denaliin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Sierra 1500 ",
@@ -511,7 +586,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Sierra 1500 ",
@@ -526,13 +603,16 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500in Castlegar",
       "vin": "2GCUKDED4S1200191",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "1500in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/837c62f2b27d.html",
       "source_url": "https://www.kalawsky.com/used/2025-Chevrolet-Silverado_1500-id14386912.html",
       "dealer_url": "https://www.kalawsky.com/used/2025-Chevrolet-Silverado_1500-id14386912.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -542,8 +622,10 @@
       "odometer_km": 34782,
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Silverado 1500in Castlegar",
-      "condition": "used"
+      "model": "Silverado",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 ",
@@ -559,7 +641,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 ",
@@ -575,13 +659,16 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Pilot TrailSport AWDin Castlegar",
       "vin": "5FNYG1H61SB503716",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "TrailSport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/c50c9640323d.html",
       "source_url": "https://www.kalawsky.com/used/2025-Honda-Pilot-id14414550.html",
       "dealer_url": "https://www.kalawsky.com/used/2025-Honda-Pilot-id14414550.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -591,8 +678,10 @@
       "odometer_km": 42668,
       "year": 2025,
       "make": "Honda",
-      "model": "Pilot TrailSport AWDin Castlegar",
-      "condition": "used"
+      "model": "Pilot",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Pilot ",
@@ -608,7 +697,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Pilot ",
@@ -624,7 +715,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX ",
@@ -640,7 +733,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision ",
@@ -656,7 +751,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX ",
@@ -672,7 +769,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision ",
@@ -688,13 +787,16 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Sport Touringin Castlegar",
       "vin": "KL4AMESL9TB301110",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport Touringin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/2671be46d205.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Encore_GX-id14311418.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Encore_GX-id14311418.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -703,13 +805,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Sport Touringin Castlegar",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Sport Touringin Castlegar",
       "vin": "KL4AMESL2TB300381",
       "stock": "NUMBER",
+      "trim": "Sport Touringin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/35a939fb8d9e.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Encore_GX-id14407759.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Encore_GX-id14407759.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -718,14 +823,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Sport Touringin Castlegar",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX Sport Touringin Castlegar",
       "vin": "KL4AMESL2TB305757",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport Touringin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/3fa41ab780a4.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Encore_GX-id14407760.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Encore_GX-id14407760.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -734,8 +842,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX Sport Touringin Castlegar",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX ",
@@ -751,7 +861,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envisionin Castlegar",
@@ -767,13 +879,16 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envisionin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision AWDin Castlegar",
       "vin": "LRBFZSR47TD084962",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/842f21a77789.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Envision-id14262198.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Envision-id14262198.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -782,14 +897,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Envision AWDin Castlegar",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision AWDin Castlegar",
       "vin": "LRBFZSR41TD030685",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/db4aa8076db4.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Envision-id14262202.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Buick-Envision-id14262202.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -798,8 +916,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Envision AWDin Castlegar",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision ",
@@ -815,12 +935,15 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette Hybridin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/f773b3d0cee3.html",
       "source_url": "https://www.kalawsky.com/new/2026-Chevrolet-Corvette_Hybrid.html",
       "dealer_url": "https://www.kalawsky.com/new/2026-Chevrolet-Corvette_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -829,13 +952,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette Hybridin Castlegar",
-      "condition": "used"
+      "model": "Corvette",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EVin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EVin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/62b570ce519d.html",
       "source_url": "https://www.kalawsky.com/new/2026-Chevrolet-Equinox_EV.html",
       "dealer_url": "https://www.kalawsky.com/new/2026-Chevrolet-Equinox_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -844,8 +970,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EVin Castlegar",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -861,7 +989,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer ",
@@ -877,12 +1007,15 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette Hybridin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f773b3d0cee3.html",
       "source_url": "https://www.kalawsky.com/new/2026-Chevrolet-Corvette_Hybrid.html",
       "dealer_url": "https://www.kalawsky.com/new/2026-Chevrolet-Corvette_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -891,13 +1024,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette Hybridin Castlegar",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EVin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EVin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/62b570ce519d.html",
       "source_url": "https://www.kalawsky.com/new/2026-Chevrolet-Equinox_EV.html",
       "dealer_url": "https://www.kalawsky.com/new/2026-Chevrolet-Equinox_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -906,8 +1042,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EVin Castlegar",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -923,7 +1061,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer ",
@@ -939,7 +1079,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Coloradoin Castlegar",
@@ -955,7 +1097,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Coloradoin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -971,13 +1115,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado RSTin Castlegar",
       "vin": "3GCUKEED4TG508170",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "RSTin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/ff82798d28a8.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-Silverado-id14359831.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-Silverado-id14359831.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -986,14 +1133,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado RSTin Castlegar",
-      "condition": "new"
+      "model": "Silverado",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado High Countryin Castlegar",
       "vin": "1GCUKJE82TZ505926",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "High Countryin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/2bb92af13df1.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-Silverado-id14392609.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-Silverado-id14392609.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1002,8 +1152,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado High Countryin Castlegar",
-      "condition": "new"
+      "model": "Silverado",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado ",
@@ -1019,13 +1171,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 4wd Crew Cabin Castlegar",
       "vin": "3GCUKFEL6TG419858",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Crew Cabin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/b2221b1b8377.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-Silverado_1500-id14262200.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-Silverado_1500-id14262200.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1034,8 +1189,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 4wd Crew Cabin Castlegar",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -1051,13 +1208,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer LTin Castlegar",
       "vin": "KL79MRSL6TB271741",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "LTin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/231a98c6a96e.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-TrailBlazer-id14205829.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-TrailBlazer-id14205829.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1066,14 +1226,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "TrailBlazer LTin Castlegar",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer Activin Castlegar",
       "vin": "KL79MSSL3TB267458",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Activin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/e55e9e53c4b5.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-TrailBlazer-id14205831.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-TrailBlazer-id14205831.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1082,14 +1245,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "TrailBlazer Activin Castlegar",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer RSin Castlegar",
       "vin": "KL79MUSL7TB280998",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "RSin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/df4255afa7da.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-TrailBlazer-id14281854.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-Chevrolet-TrailBlazer-id14281854.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1098,8 +1264,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "TrailBlazer RSin Castlegar",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer ",
@@ -1115,7 +1283,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia ",
@@ -1131,7 +1301,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1147,13 +1319,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500 HD ",
       "vin": "1GT4USE78TF328467",
       "stock": 13985599,
       "color": "White",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/547e5e23cbc1.html",
       "source_url": "https://www.kalawsky.com/new/2026-GMC-Sierra_3500HD.html",
       "dealer_url": "https://www.kalawsky.com/new/2026-GMC-Sierra_3500HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1162,8 +1337,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500 HD",
-      "condition": "used"
+      "model": "Sierra 3500",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon Crew Cab Short Box 4-Wheel Drive Denaliin Castlegar",
@@ -1179,7 +1356,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon Crew Cab Short Box 4-Wheel Drive Denaliin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1194,7 +1373,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia ",
@@ -1210,7 +1391,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1226,7 +1409,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1242,13 +1427,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500 HD ",
       "vin": "1GT4USE78TF328467",
       "stock": 13985599,
       "color": "White",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/547e5e23cbc1.html",
       "source_url": "https://www.kalawsky.com/new/2026-GMC-Sierra_3500HD.html",
       "dealer_url": "https://www.kalawsky.com/new/2026-GMC-Sierra_3500HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1257,14 +1445,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500 HD",
-      "condition": "new"
+      "model": "Sierra 3500",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia Denali Ultimatein Castlegar",
       "vin": "1GKENTKS2TJ343306",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Denali Ultimatein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f1a17f223a1c.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Acadia-id13811620.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Acadia-id13811620.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1273,14 +1464,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia Denali Ultimatein Castlegar",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia AT4in Castlegar",
       "vin": "1GKENPKS9TJ339597",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "AT4in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/5aca95cf883d.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Acadia-id13884978.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Acadia-id13884978.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1289,14 +1483,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia AT4in Castlegar",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia AT4in Castlegar",
       "vin": "1GKENPKS9TJ359705",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "AT4in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/e11e7b375a7a.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Acadia-id14048291.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Acadia-id14048291.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1305,8 +1502,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia AT4in Castlegar",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia ",
@@ -1322,13 +1521,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4in Castlegar",
       "vin": "1GTP2DEK0T1312571",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "AT4in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/34d8143b8579.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Canyon-id14279805.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Canyon-id14279805.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1337,14 +1539,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4in Castlegar",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon Denaliin Castlegar",
       "vin": "1GTP2FEKXT1298058",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Denaliin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/7211a15c43c9.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Canyon-id14321128.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Canyon-id14321128.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1353,14 +1558,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon Denaliin Castlegar",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4in Castlegar",
       "vin": "1GTP2DEKXT1322220",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "AT4in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/d3201ad848eb.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Canyon-id14371377.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Canyon-id14371377.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1369,8 +1577,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4in Castlegar",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1386,13 +1596,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra Elevationin Castlegar",
       "vin": "3GTUUCEDXTG400358",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Elevationin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f8349f259e20.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra-id13917715.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra-id13917715.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1401,14 +1614,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra Elevationin Castlegar",
-      "condition": "new"
+      "model": "Sierra",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra SLTin Castlegar",
       "vin": "3GTUUDED1TG488366",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "SLTin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f452e56895ea.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra-id14267406.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra-id14267406.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1417,14 +1633,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra SLTin Castlegar",
-      "condition": "new"
+      "model": "Sierra",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra Elevationin Castlegar",
       "vin": "1GTUUCED3TZ490520",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Elevationin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f3a2269c9678.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra-id14313824.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra-id14313824.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1433,8 +1652,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra Elevationin Castlegar",
-      "condition": "new"
+      "model": "Sierra",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1450,13 +1671,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 PROin Castlegar",
       "vin": "1GTUUAED4TZ396053",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "PROin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/feaba69e920f.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_1500-id14054891.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_1500-id14054891.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1465,14 +1689,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 PROin Castlegar",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Castlegar",
       "vin": "1GTUUCED4TZ430617",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Elevationin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/bbebf9c91c48.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_1500-id14243749.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_1500-id14243749.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1481,14 +1708,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Castlegar",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Castlegar",
       "vin": "3GTUUCED6TG462842",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Elevationin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/572d9897b8c1.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_1500-id14267770.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_1500-id14267770.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1497,8 +1727,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Castlegar",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 ",
@@ -1514,13 +1746,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500 HD 4WD Crew Cab Long Box Proin Castlegar",
       "vin": "1GT4USE78TF328467",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "HD Long Box Proin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/cda8898f962a.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_3500_HD-id13985599.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_3500_HD-id13985599.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1529,14 +1764,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500 HD 4WD Crew Cab Long Box Proin Castlegar",
-      "condition": "new"
+      "model": "Sierra 3500",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500 HD ",
       "vin": "1GT4USE78TF328467",
       "stock": 13985599,
       "color": "White",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/4b9807221f34.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_3500_HD.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2026-GMC-Sierra_3500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1545,8 +1783,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500 HD",
-      "condition": "new"
+      "model": "Sierra 3500",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1561,12 +1801,15 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Horn 4x4 Crew Cab 8' Boxin Castlegar",
       "vin": "3C63R3HL5TG216307",
       "stock": "NUMBER",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/e5a6409af715.html",
       "source_url": "https://www.kalawsky.com/used/2026-RAM-3500-id14167867.html",
       "dealer_url": "https://www.kalawsky.com/used/2026-RAM-3500-id14167867.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1576,8 +1819,10 @@
       "odometer_km": 15590,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Horn 4x4 Crew Cab 8' Boxin Castlegar",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -1592,7 +1837,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -1607,7 +1854,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Boltin Castlegar",
@@ -1622,7 +1871,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Boltin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -1638,12 +1889,15 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EVin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EVin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/15154c7d5ea6.html",
       "source_url": "https://www.kalawsky.com/new/2027-Chevrolet-Equinox_EV.html",
       "dealer_url": "https://www.kalawsky.com/new/2027-Chevrolet-Equinox_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1652,8 +1906,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EVin Castlegar",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Boltin Castlegar",
@@ -1668,7 +1924,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Boltin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -1684,12 +1942,15 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EVin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EVin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/15154c7d5ea6.html",
       "source_url": "https://www.kalawsky.com/new/2027-Chevrolet-Equinox_EV.html",
       "dealer_url": "https://www.kalawsky.com/new/2027-Chevrolet-Equinox_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1698,8 +1959,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EVin Castlegar",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinoxin Castlegar",
@@ -1715,13 +1978,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinoxin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox Awd Activin Castlegar",
       "vin": "3GNAXSEG6VL192883",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Activin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/3ca8916fc36a.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2027-Chevrolet-Equinox-id14359842.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2027-Chevrolet-Equinox-id14359842.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1730,8 +1996,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox Awd Activin Castlegar",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinoxin Castlegar",
@@ -1747,7 +2015,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinoxin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -1763,13 +2033,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse Z71 Awdin Castlegar",
       "vin": "1GNEVJKS6VJ142308",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Z71 Awdin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/1922f123e22f.html",
       "source_url": "https://www.kalawsky.com/new/inventory/2027-Chevrolet-Traverse-id14439844.html",
       "dealer_url": "https://www.kalawsky.com/new/inventory/2027-Chevrolet-Traverse-id14439844.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1778,8 +2051,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Traverse Z71 Awdin Castlegar",
-      "condition": "new"
+      "model": "Traverse",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse ",
@@ -1795,7 +2070,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -1811,7 +2088,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -1827,7 +2106,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrainin Castlegar",
@@ -1843,7 +2124,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrainin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -1859,7 +2142,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     }
   ]
 }
