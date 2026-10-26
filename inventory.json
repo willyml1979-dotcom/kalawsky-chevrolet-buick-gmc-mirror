@@ -1,7 +1,7 @@
 {
   "dealership": "Kalawsky Chevrolet Buick Gmc",
-  "generated_at": "2026-10-25T19:36:35",
-  "vehicle_count": 132,
+  "generated_at": "2026-10-25T19:40:46",
+  "vehicle_count": 138,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -46,11 +46,59 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Chevrolet Silverado 1500 Crew Rst 4wdin Castlegar",
+      "vin": "3GCUKEED4TG508170",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/50f0d324baa0.html",
+      "condition": "new",
+      "price": 81084.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Silverado 1500 High Countryin Castlegar",
+      "vin": "1GCUKJE82TZ505926",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/d4e40f8884df.html",
+      "condition": "new",
+      "price": 97539.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 GMC Sierra 1500 Elevationin Castlegar",
       "vin": "1GTUUCED4TZ430617",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/b114b2457826.html",
       "condition": "new",
       "price": 79904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chevrolet Equinox Activin Castlegar",
+      "vin": "3GNAXSEG6VL192883",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f317a98b1b41.html",
+      "condition": "new",
+      "price": 49139.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chevrolet Equinox Lt 1.5t Awdin Castlegar",
+      "vin": "3GNAXPEG5VL196999",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/52ff48c8bb91.html",
+      "condition": "new",
+      "price": 39494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chevrolet Tahoe 1500 4wdin Castlegar",
+      "vin": "1GNS6TKL3VR126069",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/a09f3013574a.html",
+      "condition": "new",
+      "price": 115574.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 GMC Terrain AT4in Castlegar",
+      "vin": "3GKALYEG0VL174777",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/be40071cd1f6.html",
+      "condition": "new",
+      "price": 52034.0,
       "price_currency": "CAD"
     },
     {
@@ -380,7 +428,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "new",
-      "price": 59999.0,
+      "price": 58999.0,
       "price_currency": "CAD"
     },
     {
