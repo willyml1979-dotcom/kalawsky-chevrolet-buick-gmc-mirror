@@ -1,7 +1,7 @@
 {
   "dealership": "Kalawsky Chevrolet Buick Gmc",
-  "generated_at": "2026-11-16T23:35:20",
-  "vehicle_count": 148,
+  "generated_at": "2026-11-16T23:44:57",
+  "vehicle_count": 166,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -83,6 +83,14 @@
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/1438c3d84643.html",
       "condition": "used",
       "price": 50999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Colorado 2027 for salein Castlegar",
+      "vin": "1GCPTEEE1V1116624",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f01597c92c83.html",
+      "condition": "new",
+      "price": 56984.0,
       "price_currency": "CAD"
     },
     {
@@ -797,6 +805,61 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Chevrolet Colorado Trail Boss Crew 4wdin Castlegar",
+      "vin": "1GCPTEEK9T1333115",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/89d76f09f02d.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 58354.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Colorado 4wd Zr2in Castlegar",
+      "vin": "1GCPTFEKXT1336224",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/5bdaf3554a02.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 66899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Colorado 4wd Trail Bossin Castlegar",
+      "vin": "1GCPTEEK5T1339655",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/a6a4a79e9c14.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 51794.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Colorado 4wd Trail Bossin Castlegar",
+      "vin": "1GCPTEEK8T1343635",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/03058e64a035.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 55649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Colorado Trail Boss Crew 4wdin Castlegar",
+      "vin": "1GCPTEEK5T1343821",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/652645391dac.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 56279.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chevrolet Colorado ",
       "vin": "1GCPTFEK0T1328052",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/77cef70dd72f.html",
@@ -838,6 +901,28 @@
       "model": "Silveradoin Castlegar",
       "condition": "new",
       "price": 67724.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Silverado LTin Castlegar",
+      "vin": "2GC4KTEY0T1254473",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/faa153e09df5.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "condition": "new",
+      "price": 96204.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Silverado RSTin Castlegar",
+      "vin": "1GCUKEED3TZ561538",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f93c7807cd8a.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "condition": "new",
+      "price": 70754.0,
       "price_currency": "CAD"
     },
     {
@@ -893,6 +978,28 @@
       "model": "Silverado 1500",
       "condition": "new",
       "price": 97539.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Silverado 1500 Crew Rst 4wdin Castlegar",
+      "vin": "1GCUKEED8TZ537655",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/067927106303.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 65724.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Silverado 1500 Crew Rst 4wdin Castlegar",
+      "vin": "1GCUKEED2TZ561059",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/8f89da6fea02.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 69949.0,
       "price_currency": "CAD"
     },
     {
@@ -1039,25 +1146,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra ",
-      "vin": "3GTUUCEDXTG400358",
+      "name": "2026 GMC Sierra 1500in Castlegar",
+      "vin": "1GTUUAED4TZ396053",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/ca99738f00b2.html",
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
       "condition": "new",
-      "price": 76279.0,
+      "price": 59999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra 3500 HD ",
-      "vin": "1GT4USE78TF328467",
+      "name": "2026 GMC Sierra 3500HDin Castlegar",
+      "vin": "1GT4UWEY3TF354345",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/547e5e23cbc1.html",
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500",
       "condition": "new",
-      "price": 77049.0,
+      "price": 110059.0,
       "price_currency": "CAD"
     },
     {
@@ -1160,6 +1267,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 GMC Canyon At4 Crew Cab 4wdin Castlegar",
+      "vin": "1GTP2DEK2T1337696",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/f1b1fa08a722.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Canyon",
+      "condition": "new",
+      "price": 64234.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 GMC Canyon ",
       "vin": "1GTP2DEK0T1312571",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/65c354a2bfdb.html",
@@ -1201,6 +1319,28 @@
       "model": "Sierra",
       "condition": "new",
       "price": 75529.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 GMC Sierra Denaliin Castlegar",
+      "vin": "1GT4UWEY3TF441694",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/0614e0c31208.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra",
+      "condition": "new",
+      "price": 112049.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 GMC Sierra Denali Ultimatein Castlegar",
+      "vin": "1GT4UYEY6TF445153",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/ce6102af9d05.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra",
+      "condition": "new",
+      "price": 123789.0,
       "price_currency": "CAD"
     },
     {
@@ -1256,6 +1396,17 @@
       "model": "Sierra 1500",
       "condition": "new",
       "price": 79904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 GMC Sierra 1500 Slt Crew Cab 4wdin Castlegar",
+      "vin": "3GTUUDED1TG488366",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/85f8dea4aa56.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 77724.0,
       "price_currency": "CAD"
     },
     {
@@ -1397,6 +1548,17 @@
       "model": "Traverse",
       "condition": "new",
       "price": 65004.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chevrolet Colorado Trail Boss Crew 4wdin Castlegar",
+      "vin": "1GCPTEEE1V1116624",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/d79a6ab4312b.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 56984.0,
       "price_currency": "CAD"
     },
     {
@@ -1584,6 +1746,39 @@
       "model": "Terrain",
       "condition": "new",
       "price": 52034.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 GMC Terrain Elevation Awdin Castlegar",
+      "vin": "3GKALUEG4VL222144",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/9727f216b018.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 48929.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 GMC Terrain Awd At4in Castlegar",
+      "vin": "3GKALYEG8VL246843",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/c0757a49af06.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 51904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 GMC Terrain Awd At4in Castlegar",
+      "vin": "3GKALYEGXVL251543",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/ed26537a5a25.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 51904.0,
       "price_currency": "CAD"
     },
     {
