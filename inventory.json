@@ -1,7 +1,7 @@
 {
   "dealership": "Kalawsky Chevrolet Buick Gmc",
-  "generated_at": "2026-11-17T20:45:33",
-  "vehicle_count": 165,
+  "generated_at": "2026-11-18T06:17:48",
+  "vehicle_count": 166,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -22,11 +22,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chevrolet Silverado 3500HD 2020 for salein Castlegar",
+      "vin": "1GC4YUEY3LF117640",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/ed29ba5ec0f7.html",
+      "condition": "used",
+      "price": 52999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda CR-V 2020 for salein Castlegar",
       "vin": "2HKRW2H93LH228828",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/fbb7ce823e81.html",
       "condition": "used",
       "price": 28999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2021 for salein Castlegar",
+      "vin": "KM8K2CAA1MU671442",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/d4a16f42cc93.html",
+      "condition": "used",
+      "price": 18999.0,
       "price_currency": "CAD"
     },
     {
@@ -67,6 +83,14 @@
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/ebf34fe3db8b.html",
       "condition": "used",
       "price": 29999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2023 for salein Castlegar",
+      "vin": "3GTUUGEL2PG121636",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/aa7796b818cc.html",
+      "condition": "used",
+      "price": 58999.0,
       "price_currency": "CAD"
     },
     {
@@ -160,17 +184,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Chevrolet Silverado 3500HD ",
-      "vin": "1GC4YUEY3LF117640",
-      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/ed29ba5ec0f7.html",
-      "year": 2020,
-      "make": "Chevrolet",
-      "model": "Silverado 3500HD",
-      "condition": "used",
-      "price": 52999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Honda CR-V Touring AWDin Castlegar",
       "vin": "2HKRW2H93LH228828",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/53a6e1ef2d60.html",
@@ -218,17 +231,6 @@
       "name": "2021 Hyundai Kona 2.0L Preferred AWDin Castlegar",
       "vin": "KM8K2CAA1MU671442",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/c5fb6c1eca8a.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 18999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Kona ",
-      "vin": "KM8K2CAA1MU671442",
-      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/d4a16f42cc93.html",
       "year": 2021,
       "make": "Hyundai",
       "model": "Kona",
@@ -419,17 +421,6 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab Standard Box 4-Wheel Drive Denaliin Castlegar",
-      "condition": "used",
-      "price": 58999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 GMC Sierra 1500 ",
-      "vin": "3GTUUGEL2PG121636",
-      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/aa7796b818cc.html",
-      "year": 2023,
-      "make": "GMC",
-      "model": "Sierra 1500",
       "condition": "used",
       "price": 58999.0,
       "price_currency": "CAD"
@@ -672,6 +663,15 @@
       "condition": "used",
       "price": 96204.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Traversein Castlegar",
+      "vin": "1GNEVGKS9TJ188330",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/edf27cf199be.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Traversein Castlegar",
+      "condition": "used"
     },
     {
       "name": "2026 Chevrolet Traverse AWD 4dr LTin Castlegar",
@@ -1079,47 +1079,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Acadia ",
+      "name": "2026 GMC Acadiain Castlegar",
       "vin": "1GKENPKS9TJ339597",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/b71ed2ebfe05.html",
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia",
+      "model": "Acadiain Castlegar",
       "condition": "used",
       "price": 66339.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Canyon ",
-      "vin": "1GTP2DEK0T1312571",
+      "name": "2026 GMC Canyonin Castlegar",
+      "vin": "1GTP2DEK2T1337696",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/0866587d0b36.html",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon",
+      "model": "Canyonin Castlegar",
       "condition": "used",
-      "price": 64599.0,
+      "price": 64234.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra ",
-      "vin": "3GTUUCEDXTG400358",
+      "name": "2026 GMC Sierra 1500in Castlegar",
+      "vin": "1GTUUAED4TZ396053",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/ca99738f00b2.html",
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
       "condition": "used",
-      "price": 76279.0,
+      "price": 59999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra 3500 HD ",
+      "name": "2026 GMC Sierra 3500HDin Castlegar",
       "vin": "1GT4UWEY3TF354345",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/547e5e23cbc1.html",
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500",
       "condition": "used",
-      "price": 112559.0,
+      "price": 109959.0,
       "price_currency": "CAD"
     },
     {
