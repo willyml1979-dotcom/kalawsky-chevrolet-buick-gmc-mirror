@@ -1,7 +1,7 @@
 {
   "dealership": "Kalawsky Chevrolet Buick Gmc",
-  "generated_at": "2026-11-16T23:44:57",
-  "vehicle_count": 166,
+  "generated_at": "2026-11-17T20:43:57",
+  "vehicle_count": 165,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -479,17 +479,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Pilot TrailSport AWDin Castlegar",
-      "vin": "5FNYG1H61SB503716",
-      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/c50c9640323d.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 54999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Honda Pilot ",
       "vin": "5FNYG1H61SB503716",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/1e07f24a34d7.html",
@@ -622,12 +611,22 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Colorado ",
+      "name": "2026 Chevrolet Blazer EVin Castlegar",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/c5648a0ed48b.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "condition": "used",
+      "price": 53899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Coloradoin Castlegar",
       "vin": "1GCPTEEK9T1333115",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/6b39c9cbec19.html",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado",
+      "model": "Coloradoin Castlegar",
       "condition": "used",
       "price": 58354.0,
       "price_currency": "CAD"
@@ -653,25 +652,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 ",
+      "name": "2026 Chevrolet Silverado 1500in Castlegar",
       "vin": "3GCUKFEL6TG419858",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/274a09349bbd.html",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500",
+      "model": "Silverado",
       "condition": "used",
-      "price": 76268.0,
+      "price": 72000.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet TrailBlazer ",
-      "vin": "KL79MSSL3TB267458",
-      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/1f34516de052.html",
+      "name": "2026 Chevrolet Silverado 3500HDin Castlegar",
+      "vin": "2GC4KTEY0T1254473",
+      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/7dba70d2f880.html",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "TrailBlazer",
+      "model": "Silverado 3500",
       "condition": "used",
-      "price": 41579.0,
+      "price": 96204.0,
       "price_currency": "CAD"
     },
     {
@@ -1451,17 +1450,6 @@
       "model": "Sierra 3500",
       "condition": "new",
       "price": 115259.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 Big Horn 4x4 Crew Cab 8' Boxin Castlegar",
-      "vin": "3C63R3HL5TG216307",
-      "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/e5a6409af715.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 72359.0,
       "price_currency": "CAD"
     },
     {
