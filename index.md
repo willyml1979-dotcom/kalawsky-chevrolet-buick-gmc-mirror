@@ -1,6 +1,6 @@
 # Kalawsky Chevrolet Buick GMC
 
- dealership in Castlegar. AI-readable inventory mirror, about 166 vehicles.
+ dealership in Castlegar. AI-readable inventory mirror, about 164 vehicles.
 
 - Official website: https://www.kalawsky.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/used/
