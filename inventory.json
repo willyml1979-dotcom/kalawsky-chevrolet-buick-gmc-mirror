@@ -1,6 +1,6 @@
 {
   "dealership": "Kalawsky Chevrolet Buick Gmc",
-  "generated_at": "2026-11-18T06:17:48",
+  "generated_at": "2026-11-18T06:19:28",
   "vehicle_count": 166,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1431,14 +1431,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra 3500 HD 4WD Crew Cab Standard Box Denaliin Castlegar",
+      "name": "New 2026 GMC Sierra 3500 HD 4WD Crew Cab Standard Box Denaliin Castlegar",
       "vin": "1GT4UWEY3TF354345",
       "url": "https://willyml1979-dotcom.github.io/kalawsky-chevrolet-buick-gmc-mirror/new/faf00a825b10.html",
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500",
       "condition": "new",
-      "price": 115259.0,
+      "price": 109959.0,
       "price_currency": "CAD"
     },
     {
